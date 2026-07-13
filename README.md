@@ -1,1 +1,1 @@
-Tagline: Ship it and see what breaks
+Tagline: It broke and i fixed it
